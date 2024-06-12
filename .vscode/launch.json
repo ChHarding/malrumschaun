@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "/home/vscode/.local/bin/streamlit",
             "console": "integratedTerminal",
-            "args":["run", "${file}"]
+            "args":["run", "streamlit_app.py"]
         }
     ]
 }
